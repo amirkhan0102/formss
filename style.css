@@ -1,0 +1,73 @@
+
+
+.asosiyy{
+    position: relative;
+    background-color: rgb(206, 206, 190);
+    height: 400px;
+width: 50%;
+margin-left: 300px;
+margin-top: 100px;
+}
+.text{
+position: absolute;
+top: 4cm;
+left: 0.5cm;
+}
+.fac{
+    position: absolute;
+    font-size: 1cm;
+    color: darkblue;
+    top: 2cm;
+    left: 0.5cm;
+    font-weight: bolder;
+}
+.oq{
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    right: 2cm;
+    top: 2cm;
+}
+.input{
+    position: absolute;
+    top: 0.4cm;
+    left: 0.2cm;
+}
+.input2{
+    position: absolute;
+    top: 1.7cm;
+    left: 0.2cm;
+  
+}
+.button{
+    width: 5cm;
+    height: 0.8cm;
+    position: absolute;
+    top: 3cm;
+    left: 0.5cm;
+    background-color: blue;
+    color: white;
+}
+.parol{
+    position:absolute;
+    top: 4cm;
+    left: 1.5cm;
+    
+
+}
+.akaunt{
+    background-color: rgb(19, 226, 19);
+    width: 5cm;
+    height: 0.8cm;
+    position: absolute;
+    top: 5cm;
+    left: 0.3cm;
+    border-radius: 8px;
+    color: white;
+}
+.oxirgi{
+    position: absolute;
+    right: 2cm;
+    top: 9cm;
+}

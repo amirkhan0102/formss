@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(103, 122, 118);
+    
+}
+
+.asosiy{
+    position: relative;
+    background-color: rgb(189, 202, 200);
+    height: 600px;
+    width: 500px;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+.sign{
+    font-size: 1cm;
+    font-weight: bolder;
+    position: absolute;
+    top: 0.3cm;
+left: 0.3cm;
+}
+.free{
+    font-size: 0.5cm;
+    position: absolute;
+    top: 1.5cm;
+    left: 0.3cm;
+}
+.first{
+    position: absolute;
+    left: 0.4cm;
+    top: 2.3cm;
+   
+}
+.last{
+    position: absolute;
+    left: 7cm;
+    top: 2.3cm;
+}
+.email{
+    position: absolute;
+    left: 0.4cm;
+    top: 3.8cm;
+}
+.re{
+    position: absolute;
+    left:0.4cm;
+    top: 5.3cm;
+}
+.password{
+    position: absolute;
+    left: 0.4cm;
+    top: 6.8cm;
+}
+.birthday{
+    position: absolute;
+    left: 0.4cm;
+    top: 7.99cm;
+    font-size: 0.5cm;
+}
+.sana{
+    position: absolute;
+    top: 8.9cm;
+    left: 0.5cm;
+    
+}
+.san{
+    position: absolute;
+    top: 8.9cm;
+    left: 6.6cm;
+}
+.jins{
+    position: absolute;
+    top: 10.5cm;
+    left: 0.5cm;
+}
+.male{
+position: absolute;
+top: 10.5cm;
+left: 1.4cm;
+font-size: 0.5cm;
+}
+.jin{
+    position: absolute;
+    top: 10.5cm;
+    left: 4cm;
+}
+.female{
+    position: absolute;
+    top: 10.5cm;
+    left: 5cm;
+    font-size: 0.5cm;
+}
+.by{
+    color: rgb(142, 166, 170);
+    position: absolute;
+    top: 12cm;
+left: 1cm;
+}
+.up{
+    border: 1px solid ;
+    background-color: green;
+    position: absolute;
+    top: 14cm;
+    left: 3cm;
+    border-radius: 8px;
+}
